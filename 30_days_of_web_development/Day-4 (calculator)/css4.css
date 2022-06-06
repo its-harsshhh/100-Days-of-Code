@@ -1,0 +1,157 @@
+*{
+    font-family:Helvetica;
+   
+}
+
+
+.list{
+    list-style:none;
+    display: flex;
+    margin-left:85px;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+.list2{
+    list-style:none;
+    display: flex;
+    margin-left:85px;
+    font-size: 20px;
+    text-decoration: none; 
+    
+}
+
+.foot{
+    list-style:none;
+    display: flex;
+    margin-left:85px;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+.foot1{
+    text-decoration: none;
+    padding-right: 30px;
+    color: grey;
+    
+}
+
+.foot1:hover{
+    text-decoration: underline;
+}
+
+.list1{
+    text-decoration: none;
+    padding-right: 30px;
+    color: grey;
+     
+}
+
+.list4{
+    
+    font-size: 25px;
+   
+    
+}
+
+.list5{
+    margin-left: 235px;
+    font-size: 25px;
+}
+
+.list10{
+    margin-left: 230px;
+    font-size: 25px;
+    
+}
+
+.list8{
+    margin-left: 190px;
+    font-size: 25px;
+    
+}
+
+.equal{
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.list1:hover{
+    text-decoration:overline;
+}
+
+.mainhead{
+    
+    margin-left:120px;
+    margin-bottom: 0px;
+    margin-top: 1.5%;
+    font-size: 40px;
+    text-decoration: none;
+    
+}
+
+.text{
+
+    margin-left: 120px;
+    font-size: 1.5em;
+}
+
+.fbox{
+    margin-left: 120px;
+    font-size: 1.5em;
+    width: 200px;
+}
+.sbox{
+    margin-left: 80px;
+    font-size: 1.5em;
+    width: 200px;
+}
+.tbox{
+    margin-left: 80px;
+    font-size: 1.5em;
+    width: 200px;
+}
+
+.forbox{
+    margin-left: 30px;
+    font-size: 1.5em;
+    width: 200px;
+}
+
+
+.line{
+    width: 1100px;
+}
+
+.buton{
+    margin-left: 600px;
+    font-size: 2em;
+    display: flexbox;
+    margin-top: 20px;
+    width: 120px;
+}
+
+#result{
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.topic{
+    margin-left:120px;
+    margin-bottom: 0px;
+    margin-top: 1.5%;
+    
+    
+    text-decoration: underline;
+}
+
+.parse{
+    text-decoration: none;
+    color: grey;
+}
+
+.parse:hover{
+    text-decoration: underline;
+}
