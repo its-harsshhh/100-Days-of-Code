@@ -1,0 +1,93 @@
+*{
+    font-family:poppins;
+}
+
+.list{
+    list-style:none;
+    display: flex;
+    margin-left:85px;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+.foot{
+    list-style:none;
+    display: flex;
+    margin-left:85px;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+.foot1{
+    text-decoration: none;
+    padding-right: 30px;
+    color: grey;
+    
+}
+
+.foot1:hover{
+    text-decoration: underline;
+}
+
+.list1{
+    text-decoration: none;
+    padding-right: 30px;
+    color: grey;
+     
+}
+
+.list1:hover{
+    text-decoration:overline;
+}
+
+.mainhead{
+    
+    margin-left:120px;
+    margin-bottom: 0px;
+    margin-top: 1.5%;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.text{
+    margin-left: 120px;
+    font-size: 1.5em;
+}
+
+.line{
+    width: 1100px;
+    margin-top: 15px;
+}
+
+.topic{
+    margin-left:120px;
+    margin-bottom: 0px;
+    margin-top: 1.5%;
+    text-decoration: underline;
+}
+
+.wiki{
+    text-decoration: none;
+    color: grey;
+    
+}
+
+.quote{
+    font-style: italic;
+}
+
+.wiki:hover{
+    text-decoration: underline;
+}
+
+#timer{
+    color: rgb(255, 255, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+
+
+
+
