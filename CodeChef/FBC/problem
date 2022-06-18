@@ -1,0 +1,21 @@
+Chef has a bucket having a capacity of KK liters. It is already filled with XX liters of water.
+
+Find the maximum amount of extra water in liters that Chef can fill in the bucket without overflowing.
+
+Input Format
+The first line will contain TT - the number of test cases. Then the test cases follow.
+The first and only line of each test case contains two space separated integers KK and XX - as mentioned in the problem.
+Output Format
+For each test case, output in a single line, the amount of extra water in liters that Chef can fill in the bucket without overflowing.
+
+Constraints
+1 \leq T \leq 1001≤T≤100
+1 \leq X \lt K \leq 10001≤X<K≤1000
+Sample 1:
+input:
+2
+5 4
+15 6
+output:
+1
+9
