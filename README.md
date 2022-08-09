@@ -5,6 +5,5 @@
 ## Goal:
 - Solve daily 1-2 problems on CodeChef
 - practising Web Development
-- 4 Star Rating on Codechef
 - Increases Problem-Solving Ability
 - Daily habit of Coding
